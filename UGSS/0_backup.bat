@@ -1,0 +1,1 @@
+xcopy /y "D:\Program Files (x86)\Steam\appcache\stats\UserGameStatsSchema_*.bin"
