@@ -1,0 +1,1 @@
+curl -s --socks5 127.0.0.1:10808 -H "accept-language: zh-cn" -H "Cookie: birthtime=birthtime=944000000; lastagecheckage=1-0-2000;" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" "https://store.steampowered.com/api/appdetails?appids=%1" -o APPS\%1.json

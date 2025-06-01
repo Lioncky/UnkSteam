@@ -1,8 +1,13 @@
 # UGSS_SAV
 
-> WARNING: Every thing maybe out of date
+> WARNING: Every thing maybe out of date <br>
 > `Achievements UserGameStatsSchema_{appid}.bin saver`
 >
+## APPID
+[APPID_CN](/APPID.md)
+
+<details>
+<summary> OLD AERA </summary>
 
 ## VR SERIES
 ```
@@ -47,3 +52,4 @@ https://raw.githubusercontent.com/Nemirtingas/games-infos-datas/refs/heads/main/
 https://raw.githubusercontent.com/Nemirtingas/games-infos-datas/refs/heads/main/steam/3159330/achievements_db.json // - Assassin's Creed Shadow
 https://raw.githubusercontent.com/Nemirtingas/games-infos-datas/refs/heads/main/steam/2124490/achievements_db.json // - SILENT HILL 2
 ```
+</details>
